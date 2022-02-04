@@ -1,5 +1,4 @@
-# phys389-2020-project-CRD1998
-phys389-2020-project-CRD1998 created by GitHub Classroom
+# The Cyclic Accelerator
 
 The simulation attached models a proton bunch in a synchrocyclotron. There are several files required to run this simulation, which have 
 all been detailed below.
